@@ -1,0 +1,19 @@
+We need few things in our system
+
+install Java  [Done]
+2. IDE[Integrated Development Environment] - IntelliJ [Done]
+Java is a platform independent Language
+
+IntelliJ ---> Create a project ---> package ---> Class {here we write the code}
+
+
+a variable is like a box/jar/container which is used to store something
+the value we want to store decides the data type to pick
+What are different data types in Java?
+
+nonDecimalNumber -->[Byte/short/int/long]
+decimalNumber    -->[float/double]
+single character -->[char]
+true/false       -->[boolean]
+
+45
