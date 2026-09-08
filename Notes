@@ -29,3 +29,22 @@ Types of Data Type:
  2. Non- Primitive data Type [String/Array....etc]
     we don't know in advance how much memory they will consume
     we cannot use them directly we need to create the object
+
+ ===================================non-decimal numbers==========================================
+ Steps to decide data type for a given number to store
+ 1. if the number will be used for mathematical operations [+,-*, /] --> Yes {Use int} but if No
+ 2. in which data types range the number lies -->Pick that data type
+ 3. If the number lies in the range of multiple data types ----> pick the one which consumes least memory
+
+  ===================================decimal numbers==========================================
+  Steps to decide data type for a given number to store
+  1. if the number will be used for mathematical operations [+,-*, /] --> Yes {Use double} but if No
+  2. in which data types range the number lies -->Pick that data type
+  3. If the number lies in the range of both data types ----> pick the one which consumes least memory
+
+  ==============================================================================================
+
+  for non-decimal number ---> use int data type
+  for decimal number     ---> use double data type
+  for single character   ---> use char data type
+  for true/false value   ---> use boolean data type
