@@ -1,0 +1,35 @@
+package day19;
+
+public class PreIncrementOperator {
+    static void main() {
+
+        int a = 1;
+        int b = a;
+
+        //Pre Increment [increment and then assign]
+        System.out.println(a);//1
+        System.out.println(b);//1
+
+        int x = 1;
+        int y = ++x;
+        System.out.println(x); //2
+        System.out.println(y); //2
+
+
+        int c = 99;
+        int d = ++c;
+        System.out.println(c);//100
+        System.out.println(d);//100
+
+        int e = -99;
+        int f = ++e;
+        System.out.println(e); //-98
+        System.out.println(f); //-98
+
+        double g = 12.34;
+        double h = ++g;
+        System.out.println(g);//13.34
+        System.out.println(h);//13.34
+
+    }
+}
