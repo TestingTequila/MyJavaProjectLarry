@@ -48,3 +48,39 @@ Types of Data Type:
   for decimal number     ---> use double data type
   for single character   ---> use char data type
   for true/false value   ---> use boolean data type
+
+  =============================================================================================
+
+  // If else statement is effective whenever we have to make single decision
+  if(condition)
+  {
+    if condition is true, execute this code
+  }
+  else
+  {
+     if condition is false, execute this code
+  }
+
+  //to make multiple decision we use, multiple if elseif else statement
+
+          if(condition1)
+          {
+
+          }
+          else if (condition 2)
+          {
+
+          }
+          else if (condition 3)
+          {
+
+          }
+          else
+          {
+
+          }
+
+  //Switch Statement:
+
+
+
