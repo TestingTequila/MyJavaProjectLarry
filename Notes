@@ -82,5 +82,31 @@ Types of Data Type:
 
   //Switch Statement:
 
+  =========================Loops=======================================
+
+  performing Repetitive tasks
+
+  - while loop
+
+    variable;
+    while(condition on variable)
+    {
+      this code will execute till the time condition is true;
+      I/D;
+    }
+
+  - for loop
+
+
+      for(variable;condition on variable;I/D)
+      {
+        this code will execute till the time condition is true;
+      }
+
+  - advanced for loop
+
+//Usages of while & for loop
+  // number of iterations are not fixed --- while loop
+  // number of iterations are fixed     --- for loop
 
 
