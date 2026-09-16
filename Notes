@@ -109,4 +109,7 @@ Types of Data Type:
   // number of iterations are not fixed --- while loop
   // number of iterations are fixed     --- for loop
 
+// To store group of values of similar data types ===> Arrays
+// To perform operation over group of vales ==>while loop, for loop, advanced for loop, display ->Arrays.toString(arrayName);
+
 
