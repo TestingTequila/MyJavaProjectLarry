@@ -112,4 +112,38 @@ Types of Data Type:
 // To store group of values of similar data types ===> Arrays
 // To perform operation over group of vales ==>while loop, for loop, advanced for loop, display ->Arrays.toString(arrayName);
 
+Day 23:
+Define Class:  A class is a Template
+Define Object: Every copy of the Template is known as its Object
+relationship b/w class and Object: A class is a Template and every copy of the class is called its object
+Technically: NameOfTheCLassWhoseCopyYouWantToCreate nameOfCopy = new NameOfTheClassWhoseCopyYouWantToCreate();
+Object w.r.t main();//Object(copy) should be created within the main();
+Visual Representation of Class and Object
+different object scenarios
+Garbage collector
+Object to object assignment
+
+NameOfTheCLassWhoseCopyYouWantToCreate nameOfCopy = new NameOfTheClassWhoseCopyYouWantToCreate();
+
+Larry
+
+Larry lar1 = new Larry();
+
+Abacus
+Abacus abc1= new Abacus();
+
+College
+
+College clg1 = new College();
+
+Country
+Country usa = new Country();
+
+Company
+
+Company adobe = new Company();
+
+
+
+
 
