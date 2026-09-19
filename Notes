@@ -144,6 +144,31 @@ Company
 Company adobe = new Company();
 
 
+==================METHODS=========================================
+
+accessModifier[public/private/protected] returnType[void/dataType] methodName(can/t parameters)
+{
+   action over variables
+}
 
 
+==============================
+Understand the problem
+Create a class
+identify what to store - variables
+define the purpose of storing the variables - methods
+ accessModifier[public/private/protected] returnType[void/dataType] methodName(can/t parameters)
+ {
+    action over variables
+ }
+now the above one is template [class]
+
+to use this template, we have to create the copy[object]--> create a class with main method
+create the copy[object] of the class you want to use using below syntax inside main method
+ NameOfTheCLassWhoseCopyYouWantToCreate nameOfCopy = new NameOfTheClassWhoseCopyYouWantToCreate();
+Assign value to variables using object name;
+Call the method using object name;
+
+Run your program
+=======================================
 
