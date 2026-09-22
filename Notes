@@ -171,4 +171,15 @@ Call the method using object name;
 
 Run your program
 =======================================
+ methodsWithParameters(something)+methodsWithoutReturnType-void
 
+ accessModifier[public/private/protected] void methodName(something)
+ {
+    action over variables
+ }
+
+// Whenever you are thinking of storing something, you need variable
+
+//if the value that you want to store will be shared by all the methods of the class --> make it a global variable
+//if you want different methods should take different value/s ---> Pass it as parameters
+//if the value of the variable is fixed ---> make it a private variable
