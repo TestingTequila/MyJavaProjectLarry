@@ -7,6 +7,5 @@ public class ExecuteCalculateSalary {
         c1.travelAllowance = 456.78;
         c1.empSalary();
 
-
     }
 }
