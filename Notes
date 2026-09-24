@@ -183,3 +183,14 @@ Run your program
 //if the value that you want to store will be shared by all the methods of the class --> make it a global variable
 //if you want different methods should take different value/s ---> Pass it as parameters
 //if the value of the variable is fixed ---> make it a private variable
+
+=====================Method Overloading============================
+
+In a class, we can have two or more methods with the same name provided that their signature is different
+How can we make the signature different?
+1. By changing the data type of parameters
+2. By changing the order of parameters
+3. By changing the count of parameters
+
+Method overloading is also known as Compile Time/Static polymorphism
+Method overloading happens within the same class only
