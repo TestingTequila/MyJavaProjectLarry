@@ -194,3 +194,20 @@ How can we make the signature different?
 
 Method overloading is also known as Compile Time/Static polymorphism
 Method overloading happens within the same class only
+
+==========================static===================================
+
+Variables whose value will remain same across all the objects of a class, make such variables static, static variables
+does not belong to objects and hence cannot be called through object reference variable. So, we need to call
+static variables using class name, as they belong to class and not to objects
+
+-------------------------------------------------------------------
+To call a variable:
+non-static: call through object reference variable
+static    : call through class name
+
+Every class will have variables and methods, and we have two options to call these variables and methods
+non-static: call through object reference variable
+static    : call through class name
+
+
