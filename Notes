@@ -210,4 +210,16 @@ Every class will have variables and methods, and we have two options to call the
 non-static: call through object reference variable
 static    : call through class name
 
+----------------------------------------------------------------------
+one of the uses of 'this' keyword is to assign parameters value to global variable value;
+
+---------------------------------------------------------------------
+What are constructors: This is used to assign meaningful value to global variables and default constructor
+                       gets created the moment you create the class[this is not visible to uor naked eyes]
+Rules for creating constructor:
+ 1. constructor will have same name as the name of the class
+ 2. constructor will not have return type
+How we call a constructor:
+A constructor is called automatically the moment we create  object of the class
+
 
